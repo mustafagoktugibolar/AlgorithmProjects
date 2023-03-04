@@ -48,3 +48,21 @@ because the number 18 is in the middle.
                  [8,11,12,16,21,22]
 
 Big O-Notation = O(nlogn)
+
+# Binary Search Tree
+
+## array = [7,5,1,8,3,6,0,9,4,2]
+
+### root = 6
+
+                          6
+                         / \
+                        5   7
+                      /       \
+                     4         8
+                   /             \
+                  3               9         
+                /
+               2
+             /
+            1    
